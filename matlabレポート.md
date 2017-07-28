@@ -10,5 +10,6 @@ imagesc(ORG); axis image;
 ![原画像](https://github.com/Takusakai/Computer-literacy/blob/master/neko.jpg)
 図1　原画像
 
+原画像の
 
 
