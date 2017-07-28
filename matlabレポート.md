@@ -21,21 +21,27 @@ IMG2 = imresize(IMG,2,'box');
 
 1/2サンプリングした結果が図2である。
 
-![neko2](https://github.com/Takusakai/Computer-literacy/blob/master/neko2..jpg)  図２　1/2サンプリング
+![neko2](https://github.com/Takusakai/Computer-literacy/blob/master/neko2..jpg)
+:-
+図２　1/2サンプリング
 
 同様にしていくと1/4、1/8、1/16、1/32とサンプリングされていく。
 図３～図6にその結果を示す。
 
 ![neko3](https://github.com/Takusakai/Computer-literacy/blob/master/neko3.jpg)
+:-
 図3　1/4サンプリング
 
 ![neko4](https://github.com/Takusakai/Computer-literacy/blob/master/neko4.jpg)
+:-
 図4　1/8サンプリング
 
 ![neko5](https://github.com/Takusakai/Computer-literacy/blob/master/neko5.jpg)
+:-
 図5　1/16サンプリング
 
 ![neko6](https://github.com/Takusakai/Computer-literacy/blob/master/neko6.jpg)
+:-
 図6　1/32サンプリング
 
 このように間隔が大きくなればなるほど画像がモザイク状になっていく。
